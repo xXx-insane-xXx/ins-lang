@@ -18,8 +18,8 @@ main.py reads
 ## Examples
 ```
 $ echo "2 2 4 4 + ." > test.ins
+$ chmod +x ./ins-run
 $ ./ins-run
-
 ```
 
 ### Also I am bad at writing READMEs
