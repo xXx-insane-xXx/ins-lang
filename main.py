@@ -1,6 +1,11 @@
 f = open("test.ins")
+
+# By default f.read() return string which can be iterated
 code = f.read()
-# print(list(code))
+
+# Can also use list(code) and iterate for same results
+#list(code)
+
 
 int_holder = []
 result = 0
