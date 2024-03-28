@@ -10,7 +10,7 @@ main.py reads
 - {int int int . .} + .
 - See test.ins file to know more
 
-## Caviets
+## Caveats
 - You have to use test.ins only
 - Only plus operation via "+" and dump operation via "." is supported
 - It runs by executing main.py actually, thats what ins-run also does. I know very weird.
