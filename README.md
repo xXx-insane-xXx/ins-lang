@@ -22,6 +22,7 @@ $ chmod +x ./ins-run
 $ ./ins-run
 ```
 
-### Also I am bad at writing READMEs
-### Written in emacs with love <peace>
+## Wow nice
+I am bad at writing READMEs
+Written in emacs with insanity
 
